@@ -10,3 +10,31 @@
   }
 }
 
+{
+  "name": "stfa_css",
+  "version": "0.0.1",
+  "description": "npm deneme",
+  "author": {
+    "name": "USISHI ICT",
+    "email": "info@usishi.com"
+  },
+  "maintainers": [
+    {
+      "name": "Erdoğan KAYA",
+      "email": "erdogan.kaya@usishi.com"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "0.27.7",
+    "moment": "2.4.0"
+  },
+  "readme": "maksat denemek olsun",
+  "_id": "css@0.0.1",
+  "dist": {
+    "shasum": "48473b10db82b18938ac0a46996518c9ec2ffbc8"
+  },
+  "_resolved": "",
+  "_from": ""
+}
