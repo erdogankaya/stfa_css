@@ -1,0 +1,12 @@
+{ "name": "css"
+, "version": "0.0.1"
+, "description" : "ERKA Yazılım"
+, 
+
+"dependencies": {
+    "express"					: "3.3.4",  
+    "jade"						: "0.27.7",
+    "moment"					: "2.4.0"
+  }
+}
+
